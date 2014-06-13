@@ -1,0 +1,4 @@
+freeicons
+=========
+
+Collection of icons
