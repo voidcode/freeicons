@@ -1,4 +1,4 @@
-Icons in this folder is under the GPL
+Icons in this folder is under the GPL and the Creative Commons (Attribution 3.0 Unported)
 
 And base on silvestre herrera's work.
 
